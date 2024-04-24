@@ -33,3 +33,7 @@ Program terdiri dari 5 kelas. Yaitu kelas App, Player, Pipe, ScoreLabel dan Flap
   Di dalam game flappy bird kita sebagai player harus menjaga burung agar tidak jatuh ke luar layar dan juga agar tidak menabrak pipa-pipa di depannya. Kita dapat membuat burung melompat dengan menekan tombol SPASI. Setiap kita melewati pipa maka score akan bertambah. Score ditampilkan diatas tengah layar. Ketika kita jatuh sampai keluar layar atau menabrak/mengenai pipa makan akan gameover. Ketika gameover maka akan ditampilkan score akhir kita di tengah layar. Jika kita ingin mengulang game maka dapat dilakukan dengan menekan tombol R.
 </li>
 
+<h3>Dokumentasi</h3>
+
+https://github.com/WildanRaffians/LP7DPBO2024C2/assets/134181656/82164523-f09c-4a48-ae98-b308892bd970
+
